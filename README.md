@@ -1,8 +1,8 @@
-# 21 Ways
+# Le 21 Vie
 
 ![](https://21-ways.com/assets/images/bitcoin-orange-pill.jpg)
 
-## What I've Learned from Falling Down the Bitcoin Rabbit Hole
+## Cosa ho imparato nel cadere dentro la tana del Bianconiglio
 
 A collection of lessons learned from falling down the Bitcoin rabbit hole. 
 
